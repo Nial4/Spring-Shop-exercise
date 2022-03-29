@@ -1,1 +1,1 @@
-# Spring-Shop-exercise
+# Spring-exercise
